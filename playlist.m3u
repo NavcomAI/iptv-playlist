@@ -15,13 +15,13 @@ https://netplus.zappr.stream/rete4.m3u8
 #EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/italia1.png",Italia 1
 https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rainews.png",Rai News
+#EXTINF:-1 tvg-id="RaiNews.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rainews.png",Rai News
 https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raisport.png",Rai Sport HD
+#EXTINF:-1 tvg-id="RAISport.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raisport.png",Rai Sport HD
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24tv.png",Sicilia 24
