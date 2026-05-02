@@ -1,25 +1,28 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai1.png",Rai 1 HD
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
+https://rai.zappr.stream/rai1.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai2.png",Rai 2 HD
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
+https://rai.zappr.stream/rai2.m3u8
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai3.png",Rai 3 HD
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
+https://rai.zappr.stream/rai3.m3u8
 
 #EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rete4.png",Rete 4 HD
 https://netplus.zappr.stream/rete4.m3u8
 
+#EXTINF:-1 tvg-id="79" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/canale5.png",Canale 5
+https://netplus.zappr.stream/canale5.m3u8
+
 #EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/italia1.png",Italia 1 HD
-https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd
+https://netplus.zappr.stream/italia1.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/RaiNews24logo.png",Rai News 24 HD
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd
+https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/RaiSportLogo.png",Rai Sport HD
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
+https://rai.zappr.stream/raisport1.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
