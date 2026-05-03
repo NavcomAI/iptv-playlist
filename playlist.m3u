@@ -27,6 +27,9 @@ https://rai.zappr.stream/raisport1.m3u8
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/tva.png",TeleVideo Agrigento
+https://media2021.rtvweb.com/tva/live/chunklist_w181301633.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24tv.png",Sicilia 24
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 
