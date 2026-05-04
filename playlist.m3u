@@ -24,6 +24,18 @@ https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/RaiSportLogo.png",Rai Sport HD
 https://rai.zappr.stream/raisport1.m3u8
 
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raistoria.png",Rai Storia
+https://rai.zappr.stream/raistoria.m3u8
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raiscuola.png",Rai Scuola
+https://rai.zappr.stream/raiscuola.m3u8
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/skytg24.png",Sky TG24
+https://uvotv.zappr.stream/293.m3u8
+
+#EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/TV_2000.png",TV2000
+https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
+
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
