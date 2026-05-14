@@ -34,7 +34,7 @@ https://rai.zappr.stream/raiscuola.m3u8
 https://uvotv.zappr.stream/293.m3u8
 
 #EXTINF:-1 tvg-id="633" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/TV_2000.png",TV2000
-https://hls.live2.meride.tv/hls/live/2028947/pu934tjb/playlist.m3u8
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
 #EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
