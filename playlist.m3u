@@ -30,6 +30,9 @@ https://rai.zappr.stream/raistoria.m3u8
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/raiscuola.png",Rai Scuola
 https://rai.zappr.stream/raiscuola.m3u8
 
+#EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter TV
+https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/skytg24.png",Sky TG24
 https://uvotv.zappr.stream/293.m3u8
 
