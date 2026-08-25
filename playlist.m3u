@@ -3,8 +3,9 @@
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai1.png",Rai 1 HD
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 
-#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai2.png",Rai 2 HD
-https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09103/stb-dash-fhd-avc/SV09103.mpd
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai2.png",Rai 2 HD
+#https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09103/stb-dash-fhd-avc/SV09103.mpd
 
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai3.png",Rai 3 HD
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
@@ -12,32 +13,39 @@ https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai3.png",Rai 3 TGR Sicilia
 https://tgrsicilia-live.akamaized.net/hls/live/2025573/tgrsicilia/tgrsicilia/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rete4.png",Rete 4 HD
-https://netplus.zappr.stream/rete4.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rete4.png",Rete 4 HD
+#https://netplus.zappr.stream/rete4.m3u8
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/canale5.png",Canale 5
-https://netplus.zappr.stream/canale5.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/canale5.png",Canale 5
+#https://netplus.zappr.stream/canale5.m3u8
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/italia1.png",Italia 1 HD
-https://netplus.zappr.stream/italia1.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/italia1.png",Italia 1 HD
+#https://netplus.zappr.stream/italia1.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/italialogos/rainews24.png",Rai News 24 HD
 https://d27wu3gni4gipu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7i6bsjw4lfg88/ABCD/Rai/RaiNews24_IT/rainews1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/italialogos/raisport.png",Rai Sport HD
-https://rai.zappr.stream/raisport1.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/italialogos/raisport.png",Rai Sport HD
+#https://rai.zappr.stream/raisport1.m3u8
 
-#EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter TV
-https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="InterTV.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Inter_TV_-_Logo_2021.png",Inter TV
+#https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 
-#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/skytg24.png",Sky TG24
-https://uvotv.zappr.stream/293.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/skytg24.png",Sky TG24
+#https://uvotv.zappr.stream/293.m3u8
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/TV_2000.png",TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/italialogos/tva.png",TeleVideo Agrigento
-https://media2021.rtvweb.com/tva/live/chunklist_w181301633.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/NavcomAI/iptv-playlist/main/italialogos/tva.png",TeleVideo Agrigento
+#https://media2021.rtvweb.com/tva/live/chunklist_w181301633.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/sicilia24tv.png",Sicilia 24
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
@@ -51,8 +59,9 @@ https://streamcdnb4-bfbe5f347ac4424faf719dda285bc39e.msvdn.net/live/S54897858/4g
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/freetv-ita/tv-logos/main/logos/sicilia242",Sicilia 242
 https://5f22d76e220e1.streamlock.net/sicilia24/sicilia24/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/insiciliatv.png",In Sicilia TV
-https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
+# DEAKTIVIERT
+##EXTINF:-1 tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/insiciliatv.png",In Sicilia TV
+#https://broadcasting.mediagroupsrl.it:1433/hls/mystream.m3u8
 
 #EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutentop.png",Rakuten - Film Top
 https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
