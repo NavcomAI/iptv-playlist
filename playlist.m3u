@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai1.png",Rai 1 HD
-https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live_aac128.m3u8
+https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 
 #EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rai2.png",Rai 2 HD
 https://da-d436234620010b88000103020000000000000008.id.cdn.upcbroadband.com/wp/wp4-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09103/stb-dash-fhd-avc/SV09103.mpd
