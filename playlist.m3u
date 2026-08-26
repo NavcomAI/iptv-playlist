@@ -69,6 +69,18 @@ https://www.frendamacchinesrl.it/stream/rtmp3.php
 #EXTINF:-1 group-title="Webcams",Realmonte - Punta Grande Live
 https://www.brezzamarinabb.it//rtmp3.php?260820261933
 
+#EXTINF:-1 group-title="Webcams",Realmonte - Lido Rossello Live
+https://www.filippazzoservizi.com//rtmp3.php?260820261943
+
+#EXTINF:-1 group-title="Webcams",Realmonte - Maredamuri Spiaggia Le Pergole Live
+https://www.webcampreview.it/stream//rtmp3.php?260820261946
+
+#EXTINF:-1 group-title="Webcams",Agrigento - Valle dei Templi Re di Girgenti - Live
+https://bookingplanets.com/hls/cam3/index.m3u8
+
+#EXTINF:-1 group-title="Webcams",Siculiana - Lustru di Luna - Live
+https://webcamlustru.it/stream/rtmp3.php?260820261951
+
 #EXTINF:-1 tvg-name="Film Top - Rakuten TV" tvgid="RakutenTopFreeItRakutenTv.it" tvg-logo="https://cdn.jsdelivr.net/gh/SuperFranky84/IPTV-Italia/logos/rakutentop.png",Rakuten - Film Top
 https://top-movies-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 
